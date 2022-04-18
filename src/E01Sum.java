@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//단순 합 구하기
 public class E01Sum {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
