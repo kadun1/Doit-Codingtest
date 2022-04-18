@@ -16,6 +16,7 @@ public class E02Avg {
 
         for (int i = 0; i < scores.length; i++) {
             scores[i] = scores[i]/maxdouble.getAsDouble()*100;
+
         }
 
         OptionalDouble average = Arrays.stream(scores).average();
