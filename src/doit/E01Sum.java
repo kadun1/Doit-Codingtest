@@ -1,3 +1,5 @@
+package doit;
+
 import java.util.Scanner;
 
 //단순 합 구하기

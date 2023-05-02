@@ -1,3 +1,5 @@
+package doit;
+
 import java.util.Scanner;
 
 public class E03AreaSum {
